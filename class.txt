@@ -1,0 +1,5 @@
+firearm
+cutting_tool
+explosive
+blood
+dead_body
